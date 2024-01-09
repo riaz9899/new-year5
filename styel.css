@@ -95,7 +95,7 @@
     margin-top: -200px;
   }
   
-  .place {
+  .samo {
     border-radius: 12px;
     display: flex;
     flex-direction: column;
@@ -112,10 +112,10 @@
     flex-shrink: 0;
     align-items: center;
   }
-  .place_style {
+  .samo_style {
     color: #f00;
   }
-  .place > h1 {
+  .samo > h1 {
     color: #070211;
     font-size: 25px;
     font-style: normal;
@@ -123,7 +123,7 @@
     line-height: 0px;
     text-transform: capitalize;
   }
-  .coming_soon {
+  .coming{
     margin-top: 30px;
     display: flex;
     justify-content: space-between;
@@ -140,7 +140,7 @@
     /* flex: 1; */
   }
   
-  .coming_style {
+  .coming_samo{
     color: red;
   }
   
@@ -194,7 +194,7 @@
     margin: 0 5px;
     margin-bottom: 10px;
   }
-  .subscribe {
+  .subs {
     display: flex;
     flex-direction: column;
     align-items: center;
